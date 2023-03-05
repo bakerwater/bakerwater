@@ -1,7 +1,9 @@
 ### 你好，我是bakerwater。
+
 <a href="https://github.com/bakerwater?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bakerwater&show_icons=true&hide_border=true&count_private=true" width="45%" />
 </a>
- + focus on Golang 
- + my blog:https://bakerwater.github.io/ 
- + my email:bakerwater666@gmail.com 
+
+- focus on Golang
+- my blog:https://bakerwater.github.io/
+- my email:bakerwater666@gmail.com
