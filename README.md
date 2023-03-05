@@ -4,6 +4,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=bakerwater&show_icons=true&hide_border=true&count_private=true" width="45%" />
 </a>
 
-- focus on Golang
-- my blog:https://bakerwater.github.io/
-- my email:bakerwater666@gmail.com
+![](https://img.shields.io/badge/-blog-green?style=for-the-badge&link=http://left&link=https://bakerwater.github.io/)
