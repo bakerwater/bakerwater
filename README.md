@@ -5,7 +5,7 @@
 </a>
 
 
-### Contact
+### Contact:
 [![Gmail](https://img.shields.io/badge/gmail-%230078D4.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakerwater666@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bakerwater)
 [![Telegram](https://img.shields.io/badge/telegram-%232B5278.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bakerwater)
